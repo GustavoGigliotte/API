@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nome": "Fernanda",
+    "idade": 29,
+    "medicamentos": "Dipirona"
+  },
+  {
+    "id": 2,
+    "nome": "Leandro",
+    "idade": 49,
+    "medicamentos": "Dipirona"
+  },
+  {
+    "id": 3,
+    "nome": "Gustavo",
+    "idade": 19,
+    "medicamentos": "Dipirona"
+  }
+]
